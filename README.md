@@ -1,4 +1,4 @@
-# baklavajs
+# baklava.js
 
 Javascript'te Türkçe ihtiyaçları karşılamak için
 
