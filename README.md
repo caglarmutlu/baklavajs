@@ -9,6 +9,7 @@ Javascript'te Türkçe ihtiyaçları karşılamak için
 - Telefon Numaralarını düzenler
 - Tarih ile ilgili Türkçe bilgi verir
 
+---
 
 var kelime = b .set('uyku',B_CINS) .siz() .lik() .get(); // uykusuzluk
 
