@@ -8,8 +8,7 @@ Javascript'te Türkçe ihtiyaçları karşılamak için
 - Tarih ile ilgili Türkçe bilgi verir
 
 ---
-- import baklava.js
----
+
 
 var b = baklava();
 
