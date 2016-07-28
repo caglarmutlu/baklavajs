@@ -20,7 +20,7 @@ ler() , e() , i() , de() , den() , ce(), mi() , nin() , lik() , li() , siz() , c
 
 b.tcKimlikNoGecerliMi(12345); // false
 	
-var telNoDuzenle = b2.telefonNumarasi ('01234567890'); // (0 123) 456 78 90
+b.telefonNumarasi ('01234567890'); // (0 123) 456 78 90
 
 b.haftaninHangiGunu(31,12,2015); // Perşembe
 
