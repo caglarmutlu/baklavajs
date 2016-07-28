@@ -17,7 +17,7 @@ Ekler :
 
 ler() , e() , i() , de() , den() , ce(), mi() , nin() , lik() , li() , siz() , cil() , cik() , das() , inci() , msi() , sel() , le() , el() , se() , gen()
 
-b.tcKimlikNoGecerliMi(12345);
+b.tcKimlikNoGecerliMi(12345); // false
 	
 var telNoDuzenle = b2.telefonNumarasi ('01234567890'); // (0 123) 456 78 90
 
