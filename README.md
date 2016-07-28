@@ -8,6 +8,10 @@ Javascript'te Türkçe ihtiyaçları karşılamak için
 - Tarih ile ilgili Türkçe bilgi verir
 
 ---
+<script src="baklava.js"></script>
+---
+
+var b = baklava();
 
 var kelime = b .set('uyku',B_CINS) .siz() .lik() .get(); // uykusuzluk
 
